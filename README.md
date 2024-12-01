@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Chow Tak Kuan.
 - 👀 I’m interested in applications of machine learning and artificial intelligence in Pathology, specifically Anatomic Pathology.
 - 🌱 I’m currently attending Masters of Health Informatics and Analytics @ IMU
-- 💞️ I’m looking to collaborate on 
 - 📫 You can reach me via email 00000044142@student.imu.edu.my
-- 😄 Pronouns: ...
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
 
 <!---
